@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let username = "Vagdevi";
 let age = 20;
 let isMember = true;
@@ -11,3 +12,4 @@ function displayDetails(name, age, active) {
     console.log(`Active : ${isMember}`);
 }
 displayDetails(username, age, isMember);
+//# sourceMappingURL=datatype1.js.map

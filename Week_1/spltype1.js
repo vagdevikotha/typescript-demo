@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let vehicle = "Car";
 console.log("Vehicle:", vehicle);
 vehicle = 2025;
@@ -11,3 +12,4 @@ function vehicleInfo(name) {
     console.log(`Vehicle Name: ${name}`);
 }
 vehicleInfo("Honda City");
+//# sourceMappingURL=spltype1.js.map

@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let customerName = "Vagdevi";
 let Age = 20;
 let eligibleForAdultMovie = Age >= 18;
@@ -11,3 +12,4 @@ if (eligibleForAdultMovie) {
 else {
     console.log(`${customerName} is not allowed to watch the movie.`);
 }
+//# sourceMappingURL=datatype3.js.map
