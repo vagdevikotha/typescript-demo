@@ -17,4 +17,3 @@ class Student {
     }
 }
 exports.Student = Student;
-//# sourceMappingURL=imex1.js.map

@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const calculateBMI = (name, weight, height) => {
     let bmi = weight / (height * height);
     console.log("Name:", name);
@@ -20,4 +19,3 @@ const calculateBMI = (name, weight, height) => {
     }
 };
 calculateBMI("Vagdevi", 65, 1.68);
-//# sourceMappingURL=arrfunc2.js.map

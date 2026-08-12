@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Employee {
     employeeId;
     employeeName;
@@ -16,4 +15,3 @@ class Employee {
 }
 const emp1 = new Employee(1001, "Vagdevi");
 emp1.showDetails();
-//# sourceMappingURL=sta3.js.map

@@ -1,29 +1,23 @@
 {
-  "name": "typescript_demo",
+  "name": "week6",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vagdevikotha/Typescript_demo.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/vagdevikotha/Typescript_demo/issues"
-  },
-  "homepage": "https://github.com/vagdevikotha/Typescript_demo#readme",
-  "dependencies": {
-    "express": "^5.2.1"
-  },
   "devDependencies": {
-    "@types/express": "^5.0.6",
-    "@types/node": "^26.2.0",
-    "typescript": "^7.0.2"
+    "@types/express": "^4.17.25",
+    "@types/node": "^26.1.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.5",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
   }
 }

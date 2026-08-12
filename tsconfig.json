@@ -1,16 +1,15 @@
 {
   "compilerOptions": {
-    "target": "ES2020",
+    "target": "ES2022",
     "module": "CommonJS",
-    "esModuleInterop": true,
-    "types": ["node"],
+
     "strict": true,
-    "verbatimModuleSyntax": false,
+
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+
     "skipLibCheck": true,
-    "sourceMap": true,
-    "declaration": true,
-    "declarationMap": true,
-    "outDir": "./dist"
+    "types": ["node"]
   },
-  "include": ["Week_4/**/*.ts", "Week_5/**/*.ts"]
+  "include": ["Week_6/**/*.ts"]
 }

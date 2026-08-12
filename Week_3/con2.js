@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Car {
     brand;
     model;
@@ -17,4 +16,3 @@ class Car {
 }
 const car1 = new Car("Hyundai", "Creta", 1500000);
 car1.showCar();
-//# sourceMappingURL=con2.js.map

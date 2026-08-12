@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class BankAccount {
     accountHolder;
     balance;
@@ -21,4 +20,3 @@ class BankAccount {
 const account = new BankAccount("Vagdevi", 25000, "Savings");
 account.displayAccount();
 account.deposit(5000);
-//# sourceMappingURL=acmod2.js.map

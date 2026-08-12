@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Student {
     rollNo;
     name;
@@ -16,4 +15,3 @@ class Student {
 }
 const s1 = new Student(4267, "Vagdevi");
 s1.display();
-//# sourceMappingURL=sta1.js.map

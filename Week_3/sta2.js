@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Product {
     productId;
     productName;
@@ -19,4 +18,3 @@ class Product {
 }
 const product = new Product(101, "Keyboard", 1200);
 product.displayProduct();
-//# sourceMappingURL=sta2.js.map

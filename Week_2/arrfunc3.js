@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const studentResult = (name, sub1, sub2, sub3) => {
     let total = sub1 + sub2 + sub3;
     let percentage = total / 3;
@@ -20,4 +19,3 @@ const studentResult = (name, sub1, sub2, sub3) => {
     }
 };
 studentResult("Vagdevi", 90, 85, 88);
-//# sourceMappingURL=arrfunc3.js.map

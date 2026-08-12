@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // Variable Type Annotations
 let studentName = "Vagdevi";
 let rollNumber = 4267;
@@ -11,4 +10,3 @@ function displayStudent(name, roll, present) {
     console.log("Present:", present);
 }
 displayStudent(studentName, rollNumber, isPresent);
-//# sourceMappingURL=annotation1.js.map

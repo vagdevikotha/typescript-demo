@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // Variable Type Annotations
 let Length = 12;
 let breadth = 8;
@@ -11,4 +10,3 @@ let area = calculateArea(Length, breadth);
 console.log("Length:", Length);
 console.log("Breadth:", breadth);
 console.log("Area:", area);
-//# sourceMappingURL=annotation2.js.map

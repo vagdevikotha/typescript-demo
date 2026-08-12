@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let order = "ORD101";
 console.log("Order ID:", order);
 order = true;
@@ -12,4 +11,3 @@ function orderStatus(product) {
     console.log(`Product Ordered: ${product}`);
 }
 orderStatus("Wireless Mouse");
-//# sourceMappingURL=spltype2.js.map

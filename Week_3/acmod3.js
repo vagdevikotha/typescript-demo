@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class College {
     collegeName;
     fee;
@@ -17,4 +16,3 @@ class College {
 }
 const college = new College("SVECW", 120000, "Dr. SriKrishna");
 college.showDetails();
-//# sourceMappingURL=acmod3.js.map

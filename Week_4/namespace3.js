@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var EmployeeDetails;
 (function (EmployeeDetails) {
     class Employee {
@@ -18,4 +17,3 @@ var EmployeeDetails;
 })(EmployeeDetails || (EmployeeDetails = {}));
 const emp = new EmployeeDetails.Employee("Vagdevi", 50000);
 emp.show();
-//# sourceMappingURL=namespace3.js.map

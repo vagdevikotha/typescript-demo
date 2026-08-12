@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const calculateElectricityBill = (customerName, units) => {
     let bill;
     if (units <= 100) {
@@ -16,4 +15,3 @@ const calculateElectricityBill = (customerName, units) => {
     console.log("Electricity Bill: ₹" + bill);
 };
 calculateElectricityBill("Vagdevi", 350);
-//# sourceMappingURL=arrfunc1.js.map

@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Book {
     title;
     author;
@@ -17,4 +16,3 @@ class Book {
 }
 const book1 = new Book("The Alchemist", "Paulo Coelho", 208);
 book1.displayBook();
-//# sourceMappingURL=con3.js.map

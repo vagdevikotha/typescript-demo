@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Employee {
     name;
     salary;
@@ -18,4 +17,3 @@ class Employee {
 const emp = new Employee("Vagdevi", 60000, "AI");
 emp.displayEmployee();
 console.log(emp.name);
-//# sourceMappingURL=acmod1.js.map

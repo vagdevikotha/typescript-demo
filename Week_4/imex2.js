@@ -8,4 +8,3 @@ function add(a, b) {
 function multiply(a, b) {
     return a * b;
 }
-//# sourceMappingURL=imex2.js.map

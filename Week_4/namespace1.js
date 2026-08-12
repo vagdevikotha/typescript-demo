@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var StudentInfo;
 (function (StudentInfo) {
     class Student {
@@ -18,4 +17,3 @@ var StudentInfo;
 })(StudentInfo || (StudentInfo = {}));
 const s = new StudentInfo.Student("Vagdevi", 4267);
 s.display();
-//# sourceMappingURL=namespace1.js.map
