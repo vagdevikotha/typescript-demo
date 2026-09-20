@@ -1,0 +1,22 @@
+{
+  "name": "week_8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.10",
+    "@types/express-session": "^1.19.0",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express-session": "^1.19.0"
+  }
+}
